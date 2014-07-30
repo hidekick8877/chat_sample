@@ -1,0 +1,21 @@
+<script src="http://code.jquery.com/jquery-1.11.1.min.js"></script>
+<script src="/js/chatroom.js"></script>
+<script type="text/javascript">
+var g_id = <%= id %>;
+var g_name = '<%= name %>';
+</script>
+
+<h2>Sample Chat Room</h2>
+<h3>Your ID:<%= id %>,  Your Name: <%= name %></h3>
+
+<div id='message_area'>
+	<ul id='message_list'>
+	</ul>
+</div>
+
+<div>
+	<input type='text' id='message'></input>
+	<input type='button' id='talk' value='send'></input>
+	<input type='button' id='leave' value='leave'></input>
+</div>
+
