@@ -279,10 +279,10 @@ node app.js
 
 
 acccess to http://127.0.0.1:1337/chatapp/login
-![login](./login.png)
+![login](./img/login.png)
 
 after login
-![main](./main.png)
+![main](./img/main.png)
 
 
 
