@@ -112,7 +112,7 @@ var g_name = '<%= name %>';
 </div>
 ```
 
-js/charroom.js
+js/chatroom.js
 ```sh
 var MAX_MSG_LENGTH = 10;
 $(function() {
