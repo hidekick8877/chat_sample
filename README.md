@@ -12,7 +12,7 @@ Creation of  project
 --------------
 
 ```sh
-sails new sample_shat --linker
+sails new chat_sample --linker
 ```
 
 
